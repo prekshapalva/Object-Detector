@@ -3,7 +3,7 @@
 The "Oject Detector" is an OpenCV project that detects and identifies the objects placed infront of the camera and displays the output on a webpage.
 
 ### :one: Introduction
-This project focuses on building a object detection model. It is a form of computer vision, image processing, and deep learning amalgam that detects instances of objects in images and videos. This project uses the YOLO object detector to detect objects in images and video streams. The data set from [yolo-coco-data](https://www.kaggle.com/datasets/valentynsichkar/yolo-coco-data)
+This project focuses on building a object detection model. It is a form of computer vision, image processing, and deep learning amalgam that detects instances of objects in images and videos. This project uses the YOLO object detector to detect objects in images and video streams. The data set from [yolo-coco-data](https://www.kaggle.com/datasets/valentynsichkar/yolo-coco-data).
 
 ### :two: Prerequisites
 Python, OpenCV and Deep learning knowledge
